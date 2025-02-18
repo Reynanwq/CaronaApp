@@ -99,6 +99,22 @@ Bem-vindo ao **Carona UFBA**, um aplicativo desenvolvido em **Flutter** para fac
 
 ---
 
+![Tela de Login](assets/1.png)
+![Tela Principal](assets/2.png)
+![Oferecer Carona](assets/3.png)
+![Lista de Caronas](assets/4.png)
+![Histórico de Caronas](assets/5.png)
+![Gerenciamento de Perfil](assets/6.png)
+![Gerenciamento de Automóveis](assets/7.png)
+![Configuração Firebase](assets/8.png)
+![Execução do Flutter](assets/9.png)
+
+
+
+
+
+---
+
 ## Licença
 Este projeto está sob a licença [MIT](LICENSE). Sinta-se livre para utilizá-lo, modificá-lo e distribuir conforme permitido pelos termos da licença.
 
