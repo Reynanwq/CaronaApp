@@ -123,5 +123,5 @@ Este projeto está sob a licença [MIT](LICENSE). Sinta-se livre para utilizá-l
 ## Desenvolvedores
 - **Nome:** [Reynan Paiva]
 - **Nome:** [Victor Rafael]
-- 
+  
 Contribuições são bem-vindas!
