@@ -26,7 +26,10 @@ Bem-vindo ao **Carona UFBA**, um aplicativo desenvolvido em **Flutter** para fac
   Adicione, edite ou remova os automóveis que você utiliza para oferecer caronas.
 
 - **Oferta de Caronas**  
-  Configure o destino, número de vagas disponíveis (0 a 7) e pontos de parada, além de selecionar um automóvel previamente registrado.
+  Configure o destino, número de vagas disponíveis (1 a 7) e pontos de parada, além de selecionar um automóvel previamente registrado.
+
+  - **Chat da Carona**  
+  Permite a comunicação entre o Usuário que está oferecendoo a corona e os usuários que aceitaram a carona, por meio de um chat.
 
 - **Lista de Caronas Disponíveis**  
   Visualize todas as caronas disponíveis e aceite ou cancele caronas diretamente pelo aplicativo.
@@ -67,6 +70,7 @@ Bem-vindo ao **Carona UFBA**, um aplicativo desenvolvido em **Flutter** para fac
   - **`ProfilePage`**: Gerenciamento do perfil do usuário.
   - **`CarManagementPage`**: Gerenciamento de automóveis.
   - **`RideOfferPage`**: Tela para oferecer novas caronas.
+  - - **`ChatScreen`**: Tela para comunicação entre usuários que aceitaram a caronas.
   - **`RideListPage`**: Lista de caronas disponíveis.
   - **`RideHistoryPage`**: Histórico de caronas.
 
@@ -93,7 +97,7 @@ Bem-vindo ao **Carona UFBA**, um aplicativo desenvolvido em **Flutter** para fac
 3. **Oferecer Carona**  
    Seleciona automóvel, destino, vagas, pontos de parada.
 4. **Lista de Caronas**  
-   Exibe todas as caronas ativas. É possível aceitar ou cancelar (se for o dono).
+   Exibe todas as caronas ativas. É possível aceitar ou cancelar (se for o dono). Além disso, é possivel se comunicar por meio de um chat.
 5. **Histórico**  
    Exibe caronas finalizadas ou canceladas previamente.
 
